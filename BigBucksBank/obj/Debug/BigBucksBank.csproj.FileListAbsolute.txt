@@ -1,0 +1,15 @@
+E:\CIT-287\BigBucksBank\BigBucksBank\bin\Debug\BigBucksBank.exe.config
+E:\CIT-287\BigBucksBank\BigBucksBank\bin\Debug\BigBucksBank.exe
+E:\CIT-287\BigBucksBank\BigBucksBank\bin\Debug\BigBucksBank.pdb
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.csprojResolveAssemblyReference.cache
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.Login.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.Properties.Resources.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.UserMenu.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.csproj.GenerateResource.Cache
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.exe
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.pdb
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.AdminMenu.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.AdminAddAccount.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.AdminControl.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.UserControl.resources
+E:\CIT-287\BigBucksBank\BigBucksBank\obj\Debug\BigBucksBank.Receipt.resources
